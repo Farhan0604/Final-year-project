@@ -14,9 +14,9 @@ In future updates, the system can include additional factors like gender, sleep 
 
 ## Tech Stack
 
-Machine Learning: Python, Scikit-learn (Random Forest Regressor)
-Backend: Flask (API-based deployment)
-Frontend: HTML5, CSS3
-Data Handling: Pandas, NumPy
-Model Storage: Joblib
-Deployment Environment: Localhost / Flask Server
+- Machine Learning: Python, Scikit-learn (Random Forest Regressor)
+- Backend: Flask (API-based deployment)
+- Frontend: HTML5, CSS3
+- Data Handling: Pandas, NumPy
+- Model Storage: Joblib
+- Deployment Environment: Localhost / Flask Server
