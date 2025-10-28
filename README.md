@@ -12,7 +12,7 @@ The Lean Body Mass (LBM) Prediction App is a machine learning web application th
 The app demonstrates an end-to-end ML workflow from data preprocessing and model training to web-based deployment through an API. It aims to make personalized fitness tracking simple and accessible for users.
 In future updates, the system can include additional factors like gender, sleep quality, and wearable integration to enhance prediction accuracy and usability.
 
-##Tech Stack
+## Tech Stack
 
 Machine Learning: Python, Scikit-learn (Random Forest Regressor)
 Backend: Flask (API-based deployment)
